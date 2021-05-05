@@ -96,7 +96,7 @@ h6 {
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.jpg");
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: 300px 100px;
+  background-size: 300px 90px;
 }
 
 .masthead h1 {
